@@ -1,0 +1,104 @@
+https://www.kaggle.com/datasets/deepcontractor/car-price-prediction-challenge/data
+
+Attributes
+ID
+Price: price of the care(Target Column)
+Levy
+Manufacturer
+Model
+Prod. year
+Category
+Leather interior
+Fuel type
+Engine volume
+Mileage
+Cylinders
+Gear box type
+Drive wheels
+Doors
+Wheel
+Color
+Airbags
+
+Confused or have any doubts in the data column values? Check the dataset discussion tab!
+
+
+Let me explain the column names of your dataset:
+
+ID: A column representing the unique identification number for each vehicle.
+
+Price: A column containing the price of the vehicles. This column is the target variable that you might want to predict.
+
+Levy: A column specifying the tax or levy amount for the vehicles. Tax or levy represents additional costs added to the vehicle's price.
+
+Manufacturer: A column containing the name of the vehicle manufacturer. For example, Toyota, Ford, BMW, etc.
+
+Model: A column indicating the vehicle model. For example, Toyota Camry, Ford Focus, etc.
+
+Prod. year: A column representing the year in which the vehicle was manufactured. It indicates when the vehicle was produced.
+
+Category: A column specifying the vehicle category. For instance, Sedan, Hatchback, SUV, etc.
+
+Leather interior: A column indicating whether the vehicle has a leather interior. It can be in the form of "Yes" or "No."
+
+Fuel type: A column specifying the type of fuel used in the vehicle. Examples include Gasoline, Diesel, Electric, etc.
+
+Engine volume: A column indicating the engine displacement, typically expressed in liters.
+
+Mileage: A column indicating the mileage of the vehicle, often measured in kilometers.
+
+Cylinders: A column specifying the number of cylinders in the vehicle's engine, usually taking values like 4, 6, or 8.
+
+Gearbox type: A column indicating the type of gearbox in the vehicle, such as Manual, Automatic, Semi-Automatic, etc.
+
+Drive wheels: A column specifying the drive or traction wheels of the vehicle, such as Front-Wheel Drive (FWD), Rear-Wheel Drive (RWD), All-Wheel Drive (AWD), etc.
+
+Doors: A column indicating the number of doors in the vehicle, often listed as 2-door, 4-door, etc.
+
+Wheel: A column specifying the position of the steering wheel, whether it's Left-Hand Drive (LHD) or Right-Hand Drive (RHD).
+
+Color: A column indicating the color of the vehicle.
+
+Airbags: A column specifying the number of airbags in the vehicle, typically represented as a numeric value.
+
+These columns represent various features and information about vehicles in your dataset. You can perform various analyses and predictions on this dataset, especially for tasks like price prediction.
+
+Veri setinizin sütun isimlerini açıklayayım:
+
+1. **ID:** Her aracın benzersiz kimlik numarasını temsil eden bir sütun.
+
+2. **Price:** Araçların fiyatını içeren bir sütun. Bu sütun, tahmin etmeye çalışabileceğiniz hedef değişkendir (Target Column).
+
+3. **Levy:** Araçların vergi veya harç tutarını belirten bir sütun. Vergi veya harç, aracın fiyatına eklenen ek maliyetleri ifade eder.
+
+4. **Manufacturer:** Araç üreticisinin adını içeren bir sütun. Örneğin, Toyota, Ford, BMW gibi.
+
+5. **Model:** Araç modelini belirten bir sütun. Örneğin, Toyota Camry, Ford Focus gibi.
+
+6. **Prod. year:** Araç üretim yılını ifade eden bir sütun. Aracın ne zaman üretildiğini gösterir.
+
+7. **Category:** Araç kategorisini belirten bir sütun. Örneğin, Sedan, Hatchback, SUV gibi.
+
+8. **Leather interior:** Deri iç mekanın olup olmadığını ifade eden bir sütun. Evet/Hayır şeklinde olabilir.
+
+9. **Fuel type:** Araçta kullanılan yakıt türünü belirten bir sütun. Benzin, Dizel, Elektrik gibi.
+
+10. **Engine volume:** Motor hacmini gösteren bir sütun. Genellikle litre cinsinden ifade edilir.
+
+11. **Mileage:** Araçın ne kadar yol gittiğini ifade eden bir sütun. Genellikle kilometre cinsinden ölçülür.
+
+12. **Cylinders:** Araç motorunun silindir sayısını belirten bir sütun. Genellikle 4, 6, 8 silindirli gibi değerler alır.
+
+13. **Gear box type:** Araç vites tipini ifade eden bir sütun. Manuel, Otomatik, Yarı Otomatik gibi.
+
+14. **Drive wheels:** Araç tahrik (çekiş) tekerleklerini ifade eden bir sütun. Örneğin, Ön Çekiş (Front-Wheel Drive), Arka Çekiş (Rear-Wheel Drive), Dört Çeker (All-Wheel Drive) gibi.
+
+15. **Doors:** Araç kapı sayısını belirten bir sütun. Genellikle 2 kapılı, 4 kapılı gibi.
+
+16. **Wheel:** Araç tekerlek tipini ifade eden bir sütun. Sol El Direksiyon (LHD) veya Sağ El Direksiyon (RHD) gibi.
+
+17. **Color:** Araç rengini belirten bir sütun.
+
+18. **Airbags:** Araçta bulunan hava yastıklarının sayısını ifade eden bir sütun. Genellikle bir sayı olarak belirtilir.
+
+Bu sütunlar, araçlarla ilgili çeşitli özellikleri ve bilgileri içeren bir veri setini temsil ediyor. Bu veri seti üzerinde çeşitli analizler ve tahminler yapabilirsiniz, özellikle fiyat tahmini gibi.
